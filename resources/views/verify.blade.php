@@ -1,0 +1,1 @@
+<a href="{{route('verifyEmail')}}">Click here to verify</a>
